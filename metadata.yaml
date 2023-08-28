@@ -1,0 +1,31 @@
+_repo: Elegy-in-Autumn-b-In-memory-of-Frank-Dempster-Sherman_71471
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scollard, Clinton
+    alias: Scollard, Clifton
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '2525'
+    url: http://www.gutenberg.org/2009/agents/2525
+    wikipedia: https://en.wikipedia.org/wiki/Clinton_Scollard
+description: ''
+gutenberg_issued: '2023-08-22'
+identifiers:
+  gutenberg: '71471'
+language: en
+pgterms:marc904: https://archive.org/details/elegyinautumninm00scol/page/n7/mode/2up
+pgterms:marc905: 20220402001006scollard
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Charlene Taylor, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bFrederick Fairchild Sherman, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Elegy in Autumn : $b In memory of Frank Dempster Sherman'
+url: http://www.gutenberg.org/ebooks/71471
